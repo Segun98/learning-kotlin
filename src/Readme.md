@@ -1,1 +1,0 @@
-# Learning Kotlin for fun!
