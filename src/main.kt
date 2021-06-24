@@ -1,5 +1,6 @@
 fun main(){
-    maps()
+    sequence()
+//    maps()
 //    loops()
 //sets()
 //    lists()
