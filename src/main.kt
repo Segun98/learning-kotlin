@@ -1,5 +1,12 @@
 fun main(){
-    sequence()
+    //  lazy variables 8:00
+//extensions at 7:50. allows you build on primitive types and also classes. eg fun String.isAdult(){}
+    generics()
+
+//    nullCheck()
+
+//casting in kotlin . 7:00
+//    sequence()
 //    maps()
 //    loops()
 //sets()
