@@ -1,7 +1,12 @@
+import com.example.utils.Upper
+
 fun main(){
-    //  lazy variables 8:00
+
 //extensions at 7:50. allows you build on primitive types and also classes. eg fun String.isAdult(){}
-    generics()
+//    println("hello".Upper())
+
+    //  lazy variables 8:00
+//    generics()
 
 //    nullCheck()
 
