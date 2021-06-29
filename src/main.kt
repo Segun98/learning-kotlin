@@ -2,6 +2,8 @@ import com.example.utils.Upper
 
 fun main(){
 
+    //":Unit" type is the same as void
+    lambda()
 //extensions at 7:50. allows you build on primitive types and also classes. eg fun String.isAdult(){}
 //    println("hello".Upper())
 
